@@ -1,0 +1,1173 @@
+(base) user@ubuntu:~/Documents/long/conva$ bash run_wn18rr.sh
+Namespace(add_inverse=False, alpha=0.0, batch_size=256, data='./data/WN18RR/', drop=0.3, embedding_size=50, epochs=200, lr=0.0005, out_channels=100, output_folder='./checkpoints/wn/out/', pretrained_emb=True, valid_invalid_ratio=60, weight_decay_conv=1e-06)
+number of unique_entities -> 40559
+number of unique_entities -> 5173
+number of unique_entities -> 5323
+True
+Initialised relations and entities from TransE
+Only Conv model trained
+torch.Size([40943, 50])
+<built-in method size of Tensor object at 0x7f37bf4423a8>
+Number of epochs 200
+
+epoch->  0
+Epoch 0 , average loss 0.09399540932739482 , epoch_time 29.49624800682068
+Saving Model
+Done saving Model
+
+epoch->  1
+Epoch 1 , average loss 0.07855010652805076 , epoch_time 29.93187928199768
+Saving Model
+Done saving Model
+
+epoch->  2
+Epoch 2 , average loss 0.05995867467101883 , epoch_time 29.694941997528076
+Saving Model
+Done saving Model
+
+epoch->  3
+Epoch 3 , average loss 0.024130635385346762 , epoch_time 29.477399349212646
+Saving Model
+Done saving Model
+
+epoch->  4
+Epoch 4 , average loss 0.008969188999275074 , epoch_time 29.051350116729736
+Saving Model
+Done saving Model
+
+epoch->  5
+Epoch 5 , average loss 0.004975340523592689 , epoch_time 29.36773681640625
+Saving Model
+Done saving Model
+
+epoch->  6
+Epoch 6 , average loss 0.0034062428047250516 , epoch_time 29.589149236679077
+Saving Model
+Done saving Model
+
+epoch->  7
+Epoch 7 , average loss 0.0026841649895205217 , epoch_time 29.267849445343018
+Saving Model
+Done saving Model
+
+epoch->  8
+Epoch 8 , average loss 0.0022843586253550124 , epoch_time 29.664901733398438
+Saving Model
+Done saving Model
+
+epoch->  9
+Epoch 9 , average loss 0.0019777863745248933 , epoch_time 29.996081829071045
+Saving Model
+Done saving Model
+
+epoch->  10
+Epoch 10 , average loss 0.0018231187772471459 , epoch_time 29.65941834449768
+Saving Model
+Done saving Model
+
+epoch->  11
+Epoch 11 , average loss 0.0016953451557235573 , epoch_time 29.62481188774109
+Saving Model
+Done saving Model
+
+epoch->  12
+Epoch 12 , average loss 0.0016035093126393965 , epoch_time 29.711453199386597
+Saving Model
+Done saving Model
+
+epoch->  13
+Epoch 13 , average loss 0.0015502820500200066 , epoch_time 29.57252287864685
+Saving Model
+Done saving Model
+
+epoch->  14
+Epoch 14 , average loss 0.0014880744790870641 , epoch_time 29.710492849349976
+Saving Model
+Done saving Model
+
+epoch->  15
+Epoch 15 , average loss 0.0013896722729174037 , epoch_time 29.469234943389893
+Saving Model
+Done saving Model
+
+epoch->  16
+Epoch 16 , average loss 0.0014069959774668163 , epoch_time 29.589967250823975
+Saving Model
+Done saving Model
+
+epoch->  17
+Epoch 17 , average loss 0.001390447761000627 , epoch_time 29.43783164024353
+Saving Model
+Done saving Model
+
+epoch->  18
+Epoch 18 , average loss 0.0014147507201414556 , epoch_time 29.414387941360474
+Saving Model
+Done saving Model
+
+epoch->  19
+Epoch 19 , average loss 0.0013146563342375244 , epoch_time 29.49138641357422
+Saving Model
+Done saving Model
+
+epoch->  20
+Epoch 20 , average loss 0.0012939750436036027 , epoch_time 29.392393827438354
+Saving Model
+Done saving Model
+
+epoch->  21
+Epoch 21 , average loss 0.0013212355254354942 , epoch_time 29.445380449295044
+Saving Model
+Done saving Model
+
+epoch->  22
+Epoch 22 , average loss 0.0013017563946264357 , epoch_time 29.59753918647766
+Saving Model
+Done saving Model
+
+epoch->  23
+Epoch 23 , average loss 0.0013430876131357817 , epoch_time 29.493446588516235
+Saving Model
+Done saving Model
+
+epoch->  24
+Epoch 24 , average loss 0.0012962233956547125 , epoch_time 28.807821035385132
+Saving Model
+Done saving Model
+
+epoch->  25
+Epoch 25 , average loss 0.001116317610413877 , epoch_time 29.06360936164856
+Saving Model
+Done saving Model
+
+epoch->  26
+Epoch 26 , average loss 0.0009001409494350596 , epoch_time 29.01475429534912
+Saving Model
+Done saving Model
+
+epoch->  27
+Epoch 27 , average loss 0.0008549412310993134 , epoch_time 29.04052710533142
+Saving Model
+Done saving Model
+
+epoch->  28
+Epoch 28 , average loss 0.0008039000018684687 , epoch_time 29.883793592453003
+Saving Model
+Done saving Model
+
+epoch->  29
+Epoch 29 , average loss 0.0007554642821025267 , epoch_time 29.949265956878662
+Saving Model
+Done saving Model
+
+epoch->  30
+Epoch 30 , average loss 0.0007980636815345326 , epoch_time 28.99198031425476
+Saving Model
+Done saving Model
+
+epoch->  31
+Epoch 31 , average loss 0.0007697197984003544 , epoch_time 29.62971043586731
+Saving Model
+Done saving Model
+
+epoch->  32
+Epoch 32 , average loss 0.0007960000964778695 , epoch_time 29.321279287338257
+Saving Model
+Done saving Model
+
+epoch->  33
+Epoch 33 , average loss 0.0007937406376560616 , epoch_time 29.059589385986328
+Saving Model
+Done saving Model
+
+epoch->  34
+Epoch 34 , average loss 0.0007079036423152395 , epoch_time 28.650421142578125
+Saving Model
+Done saving Model
+
+epoch->  35
+Epoch 35 , average loss 0.0008169061918605995 , epoch_time 29.112594842910767
+Saving Model
+Done saving Model
+
+epoch->  36
+Epoch 36 , average loss 0.0007766665233408704 , epoch_time 28.850972175598145
+Saving Model
+Done saving Model
+
+epoch->  37
+Epoch 37 , average loss 0.0007326450459111263 , epoch_time 28.831953763961792
+Saving Model
+Done saving Model
+
+epoch->  38
+Epoch 38 , average loss 0.0007852399868544821 , epoch_time 29.70491623878479
+Saving Model
+Done saving Model
+
+epoch->  39
+Epoch 39 , average loss 0.00074897986224267 , epoch_time 29.576059818267822
+Saving Model
+Done saving Model
+
+epoch->  40
+Epoch 40 , average loss 0.0007349153150939588 , epoch_time 29.674638986587524
+Saving Model
+Done saving Model
+
+epoch->  41
+Epoch 41 , average loss 0.0007930983880214626 , epoch_time 29.556060552597046
+Saving Model
+Done saving Model
+
+epoch->  42
+Epoch 42 , average loss 0.000747978001334773 , epoch_time 29.56493377685547
+Saving Model
+Done saving Model
+
+epoch->  43
+Epoch 43 , average loss 0.0007648633025168879 , epoch_time 29.52959156036377
+Saving Model
+Done saving Model
+
+epoch->  44
+Epoch 44 , average loss 0.000747444474751212 , epoch_time 29.65563440322876
+Saving Model
+Done saving Model
+
+epoch->  45
+Epoch 45 , average loss 0.0007453404013016124 , epoch_time 29.45235514640808
+Saving Model
+Done saving Model
+
+epoch->  46
+Epoch 46 , average loss 0.0007046711272885338 , epoch_time 29.16952633857727
+Saving Model
+Done saving Model
+
+epoch->  47
+Epoch 47 , average loss 0.0007252763047932496 , epoch_time 29.931723833084106
+Saving Model
+Done saving Model
+
+epoch->  48
+Epoch 48 , average loss 0.0007698500504963757 , epoch_time 29.58393359184265
+Saving Model
+Done saving Model
+
+epoch->  49
+Epoch 49 , average loss 0.0007331020378093372 , epoch_time 30.054439544677734
+Saving Model
+Done saving Model
+
+epoch->  50
+Epoch 50 , average loss 0.0006671367860262228 , epoch_time 29.18342614173889
+Saving Model
+Done saving Model
+
+epoch->  51
+Epoch 51 , average loss 0.0006584260502516853 , epoch_time 29.11670470237732
+Saving Model
+Done saving Model
+
+epoch->  52
+Epoch 52 , average loss 0.0006447517013036892 , epoch_time 29.4725182056427
+Saving Model
+Done saving Model
+
+epoch->  53
+Epoch 53 , average loss 0.0005861866764034322 , epoch_time 29.411081552505493
+Saving Model
+Done saving Model
+
+epoch->  54
+Epoch 54 , average loss 0.0006005712391925044 , epoch_time 29.46135902404785
+Saving Model
+Done saving Model
+
+epoch->  55
+Epoch 55 , average loss 0.0005942113657297073 , epoch_time 29.29039740562439
+Saving Model
+Done saving Model
+
+epoch->  56
+Epoch 56 , average loss 0.0006082554563523872 , epoch_time 29.506682872772217
+Saving Model
+Done saving Model
+
+epoch->  57
+Epoch 57 , average loss 0.0005819844096977784 , epoch_time 29.615099906921387
+Saving Model
+Done saving Model
+
+epoch->  58
+Epoch 58 , average loss 0.0005803547711419764 , epoch_time 29.72175097465515
+Saving Model
+Done saving Model
+
+epoch->  59
+Epoch 59 , average loss 0.0006273286981227369 , epoch_time 29.287550687789917
+Saving Model
+Done saving Model
+
+epoch->  60
+Epoch 60 , average loss 0.0006321846818215871 , epoch_time 28.92224431037903
+Saving Model
+Done saving Model
+
+epoch->  61
+Epoch 61 , average loss 0.0005710275321368553 , epoch_time 29.040884971618652
+Saving Model
+Done saving Model
+
+epoch->  62
+Epoch 62 , average loss 0.0005535476829048575 , epoch_time 29.06509280204773
+Saving Model
+Done saving Model
+
+epoch->  63
+Epoch 63 , average loss 0.000574088801872944 , epoch_time 29.476223945617676
+Saving Model
+Done saving Model
+
+epoch->  64
+Epoch 64 , average loss 0.0005384276294909582 , epoch_time 29.36785387992859
+Saving Model
+Done saving Model
+
+epoch->  65
+Epoch 65 , average loss 0.0005713088856924407 , epoch_time 29.784531831741333
+Saving Model
+Done saving Model
+
+epoch->  66
+Epoch 66 , average loss 0.0005924959604967358 , epoch_time 29.744454383850098
+Saving Model
+Done saving Model
+
+epoch->  67
+Epoch 67 , average loss 0.0005781050442558754 , epoch_time 29.49488925933838
+Saving Model
+Done saving Model
+
+epoch->  68
+Epoch 68 , average loss 0.0005746405284512815 , epoch_time 29.770671129226685
+Saving Model
+Done saving Model
+
+epoch->  69
+Epoch 69 , average loss 0.0005862915774153353 , epoch_time 29.418267488479614
+Saving Model
+Done saving Model
+
+epoch->  70
+Epoch 70 , average loss 0.0006164472385802689 , epoch_time 29.17384386062622
+Saving Model
+Done saving Model
+
+epoch->  71
+Epoch 71 , average loss 0.0005613779951304691 , epoch_time 29.188130617141724
+Saving Model
+Done saving Model
+
+epoch->  72
+Epoch 72 , average loss 0.0005943343253474108 , epoch_time 29.33830165863037
+Saving Model
+Done saving Model
+
+epoch->  73
+Epoch 73 , average loss 0.0005738321253482033 , epoch_time 29.13266921043396
+Saving Model
+Done saving Model
+
+epoch->  74
+Epoch 74 , average loss 0.0005735467299339635 , epoch_time 28.974854946136475
+Saving Model
+Done saving Model
+
+epoch->  75
+Epoch 75 , average loss 0.0005405296229796745 , epoch_time 28.595465421676636
+Saving Model
+Done saving Model
+
+epoch->  76
+Epoch 76 , average loss 0.0005403692127455382 , epoch_time 28.626710653305054
+Saving Model
+Done saving Model
+
+epoch->  77
+Epoch 77 , average loss 0.0005101611143746756 , epoch_time 29.188724756240845
+Saving Model
+Done saving Model
+
+epoch->  78
+Epoch 78 , average loss 0.0004894609807011233 , epoch_time 29.341793298721313
+Saving Model
+Done saving Model
+
+epoch->  79
+Epoch 79 , average loss 0.0005204333483989638 , epoch_time 29.373225212097168
+Saving Model
+Done saving Model
+
+epoch->  80
+Epoch 80 , average loss 0.0005429042874311562 , epoch_time 29.418484926223755
+Saving Model
+Done saving Model
+
+epoch->  81
+Epoch 81 , average loss 0.0005010140692534418 , epoch_time 29.600228548049927
+Saving Model
+Done saving Model
+
+epoch->  82
+Epoch 82 , average loss 0.0005373462137547048 , epoch_time 29.539863109588623
+Saving Model
+Done saving Model
+
+epoch->  83
+Epoch 83 , average loss 0.0005093857925898834 , epoch_time 29.570451974868774
+Saving Model
+Done saving Model
+
+epoch->  84
+Epoch 84 , average loss 0.0005083930794866961 , epoch_time 29.510064840316772
+Saving Model
+Done saving Model
+
+epoch->  85
+Epoch 85 , average loss 0.0005136168850774138 , epoch_time 29.575812101364136
+Saving Model
+Done saving Model
+
+epoch->  86
+Epoch 86 , average loss 0.0004739317935994169 , epoch_time 29.71870708465576
+Saving Model
+Done saving Model
+
+epoch->  87
+Epoch 87 , average loss 0.0005066926802957075 , epoch_time 29.66286611557007
+Saving Model
+Done saving Model
+
+epoch->  88
+Epoch 88 , average loss 0.00048662663948027113 , epoch_time 29.513159036636353
+Saving Model
+Done saving Model
+
+epoch->  89
+Epoch 89 , average loss 0.0004873002338546725 , epoch_time 29.899628400802612
+Saving Model
+Done saving Model
+
+epoch->  90
+Epoch 90 , average loss 0.0004732097905884182 , epoch_time 29.452574253082275
+Saving Model
+Done saving Model
+
+epoch->  91
+Epoch 91 , average loss 0.00048616884322494596 , epoch_time 29.45440912246704
+Saving Model
+Done saving Model
+
+epoch->  92
+Epoch 92 , average loss 0.0004939956926939297 , epoch_time 29.2863290309906
+Saving Model
+Done saving Model
+
+epoch->  93
+Epoch 93 , average loss 0.00048161540552802546 , epoch_time 29.38588309288025
+Saving Model
+Done saving Model
+
+epoch->  94
+Epoch 94 , average loss 0.0004901376578559661 , epoch_time 30.26034426689148
+Saving Model
+Done saving Model
+
+epoch->  95
+Epoch 95 , average loss 0.000489210347779376 , epoch_time 29.989578008651733
+Saving Model
+Done saving Model
+
+epoch->  96
+Epoch 96 , average loss 0.0005170481485787177 , epoch_time 29.77632451057434
+Saving Model
+Done saving Model
+
+epoch->  97
+Epoch 97 , average loss 0.0004895309613964534 , epoch_time 29.54287338256836
+Saving Model
+Done saving Model
+
+epoch->  98
+Epoch 98 , average loss 0.0004827580484262024 , epoch_time 30.256612062454224
+Saving Model
+Done saving Model
+
+epoch->  99
+Epoch 99 , average loss 0.0005024779835794642 , epoch_time 29.497785091400146
+Saving Model
+Done saving Model
+
+epoch->  100
+Epoch 100 , average loss 0.0004756698298853521 , epoch_time 29.288973569869995
+Saving Model
+Done saving Model
+
+epoch->  101
+Epoch 101 , average loss 0.0004815655634421787 , epoch_time 30.113773584365845
+Saving Model
+Done saving Model
+
+epoch->  102
+Epoch 102 , average loss 0.0004690979795294184 , epoch_time 29.853474855422974
+Saving Model
+Done saving Model
+
+epoch->  103
+Epoch 103 , average loss 0.00048195868364607177 , epoch_time 29.700904369354248
+Saving Model
+Done saving Model
+
+epoch->  104
+Epoch 104 , average loss 0.00046305514992769426 , epoch_time 29.924606561660767
+Saving Model
+Done saving Model
+
+epoch->  105
+Epoch 105 , average loss 0.000497235522561823 , epoch_time 29.205318450927734
+Saving Model
+Done saving Model
+
+epoch->  106
+Epoch 106 , average loss 0.000453121678540757 , epoch_time 29.1791410446167
+Saving Model
+Done saving Model
+
+epoch->  107
+Epoch 107 , average loss 0.00044082293106304643 , epoch_time 29.397021532058716
+Saving Model
+Done saving Model
+
+epoch->  108
+Epoch 108 , average loss 0.0004725003665097414 , epoch_time 29.366445541381836
+Saving Model
+Done saving Model
+
+epoch->  109
+Epoch 109 , average loss 0.0004455008774076465 , epoch_time 29.685091495513916
+Saving Model
+Done saving Model
+
+epoch->  110
+Epoch 110 , average loss 0.00043384455690530184 , epoch_time 29.475756645202637
+Saving Model
+Done saving Model
+
+epoch->  111
+Epoch 111 , average loss 0.0004647546663096257 , epoch_time 29.299816608428955
+Saving Model
+Done saving Model
+
+epoch->  112
+Epoch 112 , average loss 0.0004955719952276388 , epoch_time 29.54386854171753
+Saving Model
+Done saving Model
+
+epoch->  113
+Epoch 113 , average loss 0.0004615413378547494 , epoch_time 29.580336332321167
+Saving Model
+Done saving Model
+
+epoch->  114
+Epoch 114 , average loss 0.0004634344408473493 , epoch_time 29.484113216400146
+Saving Model
+Done saving Model
+
+epoch->  115
+Epoch 115 , average loss 0.00045711316728129 , epoch_time 28.81813645362854
+Saving Model
+Done saving Model
+
+epoch->  116
+Epoch 116 , average loss 0.00044696159251650575 , epoch_time 29.133474349975586
+Saving Model
+Done saving Model
+
+epoch->  117
+Epoch 117 , average loss 0.0004702153545247925 , epoch_time 29.285410404205322
+Saving Model
+Done saving Model
+
+epoch->  118
+Epoch 118 , average loss 0.0004814250444777666 , epoch_time 29.534302473068237
+Saving Model
+Done saving Model
+
+epoch->  119
+Epoch 119 , average loss 0.0004726511448953876 , epoch_time 29.237807512283325
+Saving Model
+Done saving Model
+
+epoch->  120
+Epoch 120 , average loss 0.0004500464027360602 , epoch_time 29.414430379867554
+Saving Model
+Done saving Model
+
+epoch->  121
+Epoch 121 , average loss 0.000453237224578248 , epoch_time 29.32971978187561
+Saving Model
+Done saving Model
+
+epoch->  122
+Epoch 122 , average loss 0.0004833767543245545 , epoch_time 29.3500554561615
+Saving Model
+Done saving Model
+
+epoch->  123
+Epoch 123 , average loss 0.00046767647100376267 , epoch_time 29.3193039894104
+Saving Model
+Done saving Model
+
+epoch->  124
+Epoch 124 , average loss 0.0004572065409935449 , epoch_time 29.224713563919067
+Saving Model
+Done saving Model
+
+epoch->  125
+Epoch 125 , average loss 0.0004441634406034342 , epoch_time 29.219099044799805
+Saving Model
+Done saving Model
+
+epoch->  126
+Epoch 126 , average loss 0.0004406359532046789 , epoch_time 29.520732641220093
+Saving Model
+Done saving Model
+
+epoch->  127
+Epoch 127 , average loss 0.00046619888288499653 , epoch_time 29.642185926437378
+Saving Model
+Done saving Model
+
+epoch->  128
+Epoch 128 , average loss 0.0004588326441187425 , epoch_time 29.258721113204956
+Saving Model
+Done saving Model
+
+epoch->  129
+Epoch 129 , average loss 0.0004887008807546568 , epoch_time 29.123454093933105
+Saving Model
+Done saving Model
+
+epoch->  130
+Epoch 130 , average loss 0.0004693487815101809 , epoch_time 29.078128337860107
+Saving Model
+Done saving Model
+
+epoch->  131
+Epoch 131 , average loss 0.0004557986666708637 , epoch_time 29.175926685333252
+Saving Model
+Done saving Model
+
+epoch->  132
+Epoch 132 , average loss 0.000469063220460906 , epoch_time 29.248422622680664
+Saving Model
+Done saving Model
+
+epoch->  133
+Epoch 133 , average loss 0.000489268935395076 , epoch_time 29.367216110229492
+Saving Model
+Done saving Model
+
+epoch->  134
+Epoch 134 , average loss 0.00046231680470929643 , epoch_time 29.202493906021118
+Saving Model
+Done saving Model
+
+epoch->  135
+Epoch 135 , average loss 0.0004895672632033786 , epoch_time 29.406040906906128
+Saving Model
+Done saving Model
+
+epoch->  136
+Epoch 136 , average loss 0.00047830596847822616 , epoch_time 29.56159210205078
+Saving Model
+Done saving Model
+
+epoch->  137
+Epoch 137 , average loss 0.0004765579582239939 , epoch_time 28.970065593719482
+Saving Model
+Done saving Model
+
+epoch->  138
+Epoch 138 , average loss 0.0004703446100072196 , epoch_time 29.297552347183228
+Saving Model
+Done saving Model
+
+epoch->  139
+Epoch 139 , average loss 0.0004487856375550002 , epoch_time 29.096458911895752
+Saving Model
+Done saving Model
+
+epoch->  140
+Epoch 140 , average loss 0.00044136259973182696 , epoch_time 29.13910746574402
+Saving Model
+Done saving Model
+
+epoch->  141
+Epoch 141 , average loss 0.00043779610716549486 , epoch_time 28.995763540267944
+Saving Model
+Done saving Model
+
+epoch->  142
+Epoch 142 , average loss 0.0004337753580116174 , epoch_time 28.97787833213806
+Saving Model
+Done saving Model
+
+epoch->  143
+Epoch 143 , average loss 0.00045430745633305325 , epoch_time 28.635185956954956
+Saving Model
+Done saving Model
+
+epoch->  144
+Epoch 144 , average loss 0.0004281059502639383 , epoch_time 29.180777072906494
+Saving Model
+Done saving Model
+
+epoch->  145
+Epoch 145 , average loss 0.0004896789063102059 , epoch_time 29.2703640460968
+Saving Model
+Done saving Model
+
+epoch->  146
+Epoch 146 , average loss 0.00044306522690663663 , epoch_time 29.751346349716187
+Saving Model
+Done saving Model
+
+epoch->  147
+Epoch 147 , average loss 0.0004526834544616149 , epoch_time 29.84403085708618
+Saving Model
+Done saving Model
+
+epoch->  148
+Epoch 148 , average loss 0.000450059022028547 , epoch_time 29.52088952064514
+Saving Model
+Done saving Model
+
+epoch->  149
+Epoch 149 , average loss 0.0004691479370247929 , epoch_time 28.971094608306885
+Saving Model
+Done saving Model
+
+epoch->  150
+Epoch 150 , average loss 0.00041255500259199725 , epoch_time 29.52506685256958
+Saving Model
+Done saving Model
+
+epoch->  151
+Epoch 151 , average loss 0.000463460483982036 , epoch_time 29.005271673202515
+Saving Model
+Done saving Model
+
+epoch->  152
+Epoch 152 , average loss 0.00044264931591041044 , epoch_time 28.86261796951294
+Saving Model
+Done saving Model
+
+epoch->  153
+Epoch 153 , average loss 0.0004532232959557886 , epoch_time 28.63569951057434
+Saving Model
+Done saving Model
+
+epoch->  154
+Epoch 154 , average loss 0.00045930583582958205 , epoch_time 28.6591579914093
+Saving Model
+Done saving Model
+
+epoch->  155
+Epoch 155 , average loss 0.0004411491422883153 , epoch_time 29.07691264152527
+Saving Model
+Done saving Model
+
+epoch->  156
+Epoch 156 , average loss 0.0004578884931106586 , epoch_time 29.56259322166443
+Saving Model
+Done saving Model
+
+epoch->  157
+Epoch 157 , average loss 0.0004601761414960492 , epoch_time 28.84811496734619
+Saving Model
+Done saving Model
+
+epoch->  158
+Epoch 158 , average loss 0.0004435385817915256 , epoch_time 28.829665184020996
+Saving Model
+Done saving Model
+
+epoch->  159
+Epoch 159 , average loss 0.00044998917743642404 , epoch_time 28.9557101726532
+Saving Model
+Done saving Model
+
+epoch->  160
+Epoch 160 , average loss 0.0004487595686548636 , epoch_time 28.879045009613037
+Saving Model
+Done saving Model
+
+epoch->  161
+Epoch 161 , average loss 0.00044173365388226505 , epoch_time 29.34231185913086
+Saving Model
+Done saving Model
+
+epoch->  162
+Epoch 162 , average loss 0.0004548588617420618 , epoch_time 29.327420711517334
+Saving Model
+Done saving Model
+
+epoch->  163
+Epoch 163 , average loss 0.0004891105708392227 , epoch_time 29.031787872314453
+Saving Model
+Done saving Model
+
+epoch->  164
+Epoch 164 , average loss 0.00047232322788605575 , epoch_time 29.224825620651245
+Saving Model
+Done saving Model
+
+epoch->  165
+Epoch 165 , average loss 0.0004496454612201299 , epoch_time 29.216214895248413
+Saving Model
+Done saving Model
+
+epoch->  166
+Epoch 166 , average loss 0.0004132583176910617 , epoch_time 29.04001760482788
+Saving Model
+Done saving Model
+
+epoch->  167
+Epoch 167 , average loss 0.0004420993970758419 , epoch_time 29.706064701080322
+Saving Model
+Done saving Model
+
+epoch->  168
+Epoch 168 , average loss 0.0004270559329597745 , epoch_time 29.23877239227295
+Saving Model
+Done saving Model
+
+epoch->  169
+Epoch 169 , average loss 0.0004415819158192094 , epoch_time 29.250499725341797
+Saving Model
+Done saving Model
+
+epoch->  170
+Epoch 170 , average loss 0.00044552015353795414 , epoch_time 29.498698711395264
+Saving Model
+Done saving Model
+
+epoch->  171
+Epoch 171 , average loss 0.00042816299713141395 , epoch_time 29.734325885772705
+Saving Model
+Done saving Model
+
+epoch->  172
+Epoch 172 , average loss 0.00045493573486644033 , epoch_time 29.59205722808838
+Saving Model
+Done saving Model
+
+epoch->  173
+Epoch 173 , average loss 0.00045219321845626625 , epoch_time 29.54983925819397
+Saving Model
+Done saving Model
+
+epoch->  174
+Epoch 174 , average loss 0.0004696555056879708 , epoch_time 29.61956286430359
+Saving Model
+Done saving Model
+
+epoch->  175
+Epoch 175 , average loss 0.00045312486237140975 , epoch_time 29.196335315704346
+Saving Model
+Done saving Model
+
+epoch->  176
+Epoch 176 , average loss 0.0004462968181221239 , epoch_time 29.049880504608154
+Saving Model
+Done saving Model
+
+epoch->  177
+Epoch 177 , average loss 0.000471749581008814 , epoch_time 29.277159452438354
+Saving Model
+Done saving Model
+
+epoch->  178
+Epoch 178 , average loss 0.0004699582118037677 , epoch_time 29.429113388061523
+Saving Model
+Done saving Model
+
+epoch->  179
+Epoch 179 , average loss 0.00044301039918483344 , epoch_time 29.61501932144165
+Saving Model
+Done saving Model
+
+epoch->  180
+Epoch 180 , average loss 0.00045810935728642267 , epoch_time 29.295939922332764
+Saving Model
+Done saving Model
+
+epoch->  181
+Epoch 181 , average loss 0.00044763271154592716 , epoch_time 29.524494409561157
+Saving Model
+Done saving Model
+
+epoch->  182
+Epoch 182 , average loss 0.00042632052714265336 , epoch_time 29.840084552764893
+Saving Model
+Done saving Model
+
+epoch->  183
+Epoch 183 , average loss 0.0004576956222402206 , epoch_time 28.907532215118408
+Saving Model
+Done saving Model
+
+epoch->  184
+Epoch 184 , average loss 0.0004827085280232816 , epoch_time 28.97672462463379
+Saving Model
+Done saving Model
+
+epoch->  185
+Epoch 185 , average loss 0.00044973439351665814 , epoch_time 29.52042055130005
+Saving Model
+Done saving Model
+
+epoch->  186
+Epoch 186 , average loss 0.00045601108904520516 , epoch_time 29.424236536026
+Saving Model
+Done saving Model
+
+epoch->  187
+Epoch 187 , average loss 0.00046734660170520383 , epoch_time 29.079187870025635
+Saving Model
+Done saving Model
+
+epoch->  188
+Epoch 188 , average loss 0.000446210693104042 , epoch_time 29.411664485931396
+Saving Model
+Done saving Model
+
+epoch->  189
+Epoch 189 , average loss 0.0004368419713500771 , epoch_time 29.376243114471436
+Saving Model
+Done saving Model
+
+epoch->  190
+Epoch 190 , average loss 0.00045303401028136517 , epoch_time 29.94758629798889
+Saving Model
+Done saving Model
+
+epoch->  191
+Epoch 191 , average loss 0.0004397970250412233 , epoch_time 29.948110342025757
+Saving Model
+Done saving Model
+
+epoch->  192
+Epoch 192 , average loss 0.0004230969155768809 , epoch_time 29.2464497089386
+Saving Model
+Done saving Model
+
+epoch->  193
+Epoch 193 , average loss 0.00044687837216770274 , epoch_time 29.419615983963013
+Saving Model
+Done saving Model
+
+epoch->  194
+Epoch 194 , average loss 0.0004623588858093546 , epoch_time 29.123427629470825
+Saving Model
+Done saving Model
+
+epoch->  195
+Epoch 195 , average loss 0.0004507121035096455 , epoch_time 29.529171466827393
+Saving Model
+Done saving Model
+
+epoch->  196
+Epoch 196 , average loss 0.00042377909485367125 , epoch_time 29.534374475479126
+Saving Model
+Done saving Model
+
+epoch->  197
+Epoch 197 , average loss 0.0004610356261871536 , epoch_time 29.24737524986267
+Saving Model
+Done saving Model
+
+epoch->  198
+Epoch 198 , average loss 0.0004565231262377518 , epoch_time 29.23249053955078
+Saving Model
+Done saving Model
+
+epoch->  199
+Epoch 199 , average loss 0.0004371386482863968 , epoch_time 29.25854730606079
+Saving Model
+Done saving Model
+./checkpoints/wn/out/trained_199.pth
+Conv(
+  (conv): ConvA(
+    (conv_seq): Conv2d(1, 100, kernel_size=(1, 3), stride=(1, 1))
+    (conv_hr_a): Conv2d(1, 100, kernel_size=(1, 2), stride=(1, 1))
+    (conv_rt_a): Conv2d(1, 100, kernel_size=(1, 2), stride=(1, 1))
+    (dropout): Dropout(p=0.3, inplace=False)
+    (non_linearity): ReLU()
+    (fc_layer): Linear(in_features=5000, out_features=1, bias=True)
+  )
+)
+./checkpoints/wn/out/
+
+link prediction
+Sampled indices
+test set length  3134
+
+2924 2924 2924 2924      3615
+
+Averaged stats for replacing head are ->
+Hits@100 are 0.6990424076607387
+Hits@10 are 0.5704514363885089
+Hits@3 are 0.454172366621067
+Hits@1 are 0.06874145006839945
+Mean rank 1816.2147742818058
+Mean Reciprocal Rank 0.2692699066479341
+
+Averaged stats for replacing tail are ->
+Hits@100 are 0.7325581395348837
+Hits@10 are 0.6070451436388509
+Hits@3 are 0.49316005471956226
+Hits@1 are 0.09644322845417237
+Mean rank 558.3816689466485
+Mean Reciprocal Rank 0.29991474988613376
+
+Cumulative stats are ->
+Hits@100 are 0.7158002735978112
+Hits@10 are 0.5887482900136799
+Hits@3 are 0.47366621067031467
+Hits@1 are 0.08259233926128591
+Mean rank 1187.2982216142273
+Mean Reciprocal Rank 0.28459232826703396
+
+1 to 1 link prediction
+Sampled indices
+test set length  42
+
+42 42 42 42  2   2
+
+Averaged stats for replacing head are ->
+Hits@100 are 0.9761904761904762
+Hits@10 are 0.9761904761904762
+Hits@3 are 0.9285714285714286
+Hits@1 are 0.0
+Mean rank 10.19047619047619
+Mean Reciprocal Rank 0.4683239962651727
+
+Averaged stats for replacing tail are ->
+Hits@100 are 0.9761904761904762
+Hits@10 are 0.9761904761904762
+Hits@3 are 0.9285714285714286
+Hits@1 are 0.0
+Mean rank 10.30952380952381
+Mean Reciprocal Rank 0.4564188248398775
+
+Cumulative stats are ->
+Hits@100 are 0.9761904761904762
+Hits@10 are 0.9761904761904762
+Hits@3 are 0.9285714285714286
+Hits@1 are 0.0
+Mean rank 10.25
+Mean Reciprocal Rank 0.46237141055252506
+
+1 to n link prediction
+Sampled indices
+test set length  475
+
+463 463 463 4630         590
+
+Averaged stats for replacing head are ->
+Hits@100 are 0.7494600431965442
+Hits@10 are 0.4773218142548596
+Hits@3 are 0.3369330453563715
+Hits@1 are 0.2224622030237581
+Mean rank 209.7645788336933
+Mean Reciprocal Rank 0.3068523859425773
+
+Averaged stats for replacing tail are ->
+Hits@100 are 0.5658747300215983
+Hits@10 are 0.28293736501079914
+Hits@3 are 0.18142548596112312
+Hits@1 are 0.058315334773218146
+Mean rank 307.64578833693304
+Mean Reciprocal Rank 0.1412804845815653
+
+Cumulative stats are ->
+Hits@100 are 0.6576673866090712
+Hits@10 are 0.3801295896328294
+Hits@3 are 0.25917926565874727
+Hits@1 are 0.14038876889848811
+Mean rank 258.7051835853132
+Mean Reciprocal Rank 0.22406643526207132
+
+n to 1 link prediction
+Sampled indices
+test set length  1487
+
+1289 1289 1289 1289      1615
+
+Averaged stats for replacing head are ->
+Hits@100 are 0.4313421256788208
+Hits@10 are 0.2560124127230411
+Hits@3 are 0.16912335143522111
+Hits@1 are 0.07137315748642359
+Mean rank 3974.8456167571762
+Mean Reciprocal Rank 0.1379898952544178
+
+Averaged stats for replacing tail are ->
+Hits@100 are 0.574088440651668
+Hits@10 are 0.41194724592707527
+Hits@3 are 0.30333591931730025
+Hits@1 are 0.1939487975174554
+Mean rank 1087.9573312645462
+Mean Reciprocal Rank 0.26665079461037006
+
+Cumulative stats are ->
+Hits@100 are 0.5027152831652444
+Hits@10 are 0.3339798293250582
+Hits@3 are 0.23622963537626068
+Hits@1 are 0.1326609775019395
+Mean rank 2531.4014740108614
+Mean Reciprocal Rank 0.20232034493239393
+
+n to n link prediction
+Sampled indices
+test set length  1130
+
+1130 1130 1130 1130      27390
+
+Averaged stats for replacing head are ->
+Hits@100 are 0.9734513274336283
+Hits@10 are 0.952212389380531
+Hits@3 are 0.8097345132743363
+Hits@1 are 0.005309734513274336
+Mean rank 79.19203539823009
+Mean Reciprocal Rank 0.396224751788548
+
+Averaged stats for replacing tail are ->
+Hits@100 are 0.9725663716814159
+Hits@10 are 0.9486725663716814
+Hits@3 are 0.8212389380530973
+Hits@1 are 0.004424778761061947
+Mean rank 77.39646017699116
+Mean Reciprocal Rank 0.39704017646879763
+
+Cumulative stats are ->
+Hits@100 are 0.9730088495575221
+Hits@10 are 0.9504424778761063
+Hits@3 are 0.8154867256637168
+Hits@1 are 0.0048672566371681415
+Mean rank 78.29424778761063
+Mean Reciprocal Rank 0.3966324641286728
