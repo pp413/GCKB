@@ -38,7 +38,13 @@ WN18RR.
 
 `--out_channels`: Number of output channels in convolution layer.
 
-#### Reproducing results
+##### Training log
+
+log.txt
+
+The sprcific process can be viewed in the "checkpoints" folder.
+
+<!-- #### Reproducing results
 
 To reproduce the results published in the paper, run preparation script with:
 
@@ -52,7 +58,7 @@ To reproduce the results published in the paper, run preparation script with:
 
   ```shell
   bash run_wn18rr.sh
-  ```
+  ``` -->
 
   
 
